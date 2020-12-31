@@ -1,0 +1,2 @@
+E:\小小C盘\软件工程实验\WordCount\Debug\WordCount.exe
+E:\小小C盘\软件工程实验\WordCount\Debug\WordCount.pdb
